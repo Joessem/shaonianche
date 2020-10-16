@@ -5,10 +5,10 @@
 [![Telegram Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&label=@FriendsA&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dchawyehsu&logo=telegram&color=282c34&labelColor=0088cc&longCache=true)](https://t.me/s/Alone_cmj)
 
 I'm duanfei:
-- Product manager 🔭
-- Like [reading](https://www.douban.com/people/137566058/) 📖
-- A passion for [running](https://blog.duanfei.org/running/) 🏃
-- [PlayStation](http://psnine.com/psnid/axmiao), [Steam](https://steamcommunity.com/id/duanf/), [Nintendo Switch]() user 🎮
+-**Working**: Product manager 🔭
+-**Learning** :Like [reading](https://www.douban.com/people/137566058/) 📖
+-**favourite**: A passion for [running](https://blog.duanfei.org/running/) 🏃
+-**Playing**: [PlayStation](http://psnine.com/psnid/axmiao) [Steam](https://steamcommunity.com/id/duanf/) [Nintendo Switch]() 🎮
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58443ff7f75e2911513f8b3016b49955" target="_blank">🎮 Steam playtime leaderboard</a>
