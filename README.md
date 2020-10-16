@@ -8,7 +8,7 @@ I'm duanfei:
 - Product manager 🔭
 - Like [reading](https://www.douban.com/people/137566058/) 📖
 - A passion for [running](https://blog.duanfei.org/running/) 🏃
-- PlayStation、Steam、Nintendo Switch user 🎮
+- `PlayStation` `Steam` `Nintendo Switch` user 🎮
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/58443ff7f75e2911513f8b3016b49955" target="_blank">🎮 Steam playtime leaderboard</a>
